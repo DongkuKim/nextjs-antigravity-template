@@ -13,6 +13,7 @@ To ensure documentation stays in sync with implementation, follow these steps af
 
 3. **Perform Updates**:
    - Add "How to use" or "Why it works this way" explanations for new features.
+   - **Important**: Follow the `stop-slop` skill (.agent/skills/stop-slop/SKILL.md) to ensure clean, direct, and non-repetitive writing.
 
 4. **Verify Consistency**:
    - Read the updated documentation to ensure it accurately reflects the new state of the code.

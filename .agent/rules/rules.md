@@ -1,5 +1,5 @@
 ---
-description: 
+trigger: always_on
 ---
 
 # User Rules
@@ -21,4 +21,4 @@ Define custom rules for the agent here.
 - **Assignments**: Always assign the **current user** (self) to any Issue or Pull Request you create. Verify the current user with `get_me` if unsure.
 
 ## General Behavior
-- **ALWAYS** adhere to the [clean-code skill](.agent/skills/clean-code/SKILL.md) for all coding tasks. Be concise, direct, and avoid over-engineering.
+- **ALWAYS** adhere to the [stop-slop skill](.agent/skills/stop-slop/SKILL.md) for all coding tasks. Be concise, direct, and avoid over-engineering.

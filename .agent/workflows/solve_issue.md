@@ -14,6 +14,10 @@ Follow these steps to solve a GitHub issue from start to finish:
 
 3. **Solve the Issue**:
    - **Research**: If the solution isn't immediate, use `grep_search` or `find_by_name` to understand relevant parts of the codebase.
+   - **Follow Guidelines**:
+     - **Writing**: Use the `stop-slop` skill for all text/docs.
+     - **React/Next.js**: Adhere to `vercel-composition-patterns` and `vercel-react-best-practices` skills.
+     - **UI/UX**: Check against `web-design-guidelines` skill.
    - **Implement**: Write the necessary code or documentation to address the issue.
    - **Test**: Verify your changes by running existing tests and adding new ones where appropriate.
      - Command: `pnpm run test`
