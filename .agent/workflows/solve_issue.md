@@ -16,7 +16,7 @@ Follow these steps to solve a GitHub issue from start to finish:
    - **Research**: If the solution isn't immediate, use `grep_search` or `find_by_name` to understand relevant parts of the codebase.
    - **Implement**: Write the necessary code or documentation to address the issue.
    - **Test**: Verify your changes by running existing tests and adding new ones where appropriate.
-     - Command: `npm run test`
+     - Command: `pnpm run test`
    - **Propose**: If the solution involves multiple complex steps, outline them for the user first.
    - **Commit**: Commit your changes with a clear message referencing the issue (e.g., `docs: add documentation (#<number>)`).
 

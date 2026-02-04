@@ -8,7 +8,7 @@ Define custom rules for the agent here.
 
 ## Package Management
 ## Package Management
-- **ALWAYS** use `npm` for managing dependencies. Never use `yarn` or `pnpm` unless explicitly requested.
+- **ALWAYS** use `pnpm` for managing dependencies. Never use `npm` or `yarn` unless explicitly requested.
 
 ## Architecture
 - Enforce clean separation business logic and others.
