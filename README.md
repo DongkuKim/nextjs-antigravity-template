@@ -1,12 +1,12 @@
 # Next.js Antigravity Template
 
-This is a Next.js 15 template initialized with `create-next-app`, optimized for rapid development with modern tooling.
+This is a Next.js 16 template initialized with `create-next-app`, optimized for rapid development with modern tooling.
 
 ## Tech Stack
 
 This template is built with the following core technologies:
 
-- **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
+- **Framework**: [Next.js 16](https://nextjs.org/) (App Router)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
 - **Package Manager**: [pnpm](https://pnpm.io/)
