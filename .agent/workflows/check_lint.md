@@ -9,4 +9,4 @@ description: Check and fix code style
    - Command: `pnpm run lint`
 
 3. **Verify**:
-    - Ensure no errors remain.
+   - Ensure no errors remain.
